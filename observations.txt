@@ -1,0 +1,10 @@
+Styles
+- parent styles, even if general, don't impact child iframe styles
+- child styles, even if general, don't impact parent page style
+- important! doesn't change the above
+- share reset.css between the two
+- share common css between the two for foundational styles
+
+
+Nav
+- Regular nav link in iframe will not change parent url

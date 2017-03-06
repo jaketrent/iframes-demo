@@ -1,0 +1,19 @@
+- resizeable
+  - fit frame
+  - keep proportion
+  - growing content / scrolling
+- styles
+  - shared
+  - clash/namespace
+- communication
+  - out
+  - in
+- accessibility
+  - tab into
+  - tab out
+  - screenread
+- ops
+  - cors
+- nav
+  - anchor tags nav where
+  - client routers

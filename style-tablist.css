@@ -1,0 +1,19 @@
+a {
+  color: orange !important;
+  text-decoration: none;
+}
+.tablist {
+  display: flex;
+  justify-content: space-around;
+}
+.tablist-link {
+  display: block;
+  flex: 1;
+  text-align: center;
+  padding: 10px 0;
+  background: gray;
+  border-radius: 10px 10px 0 0;
+}
+.tablist-link:not(:last-child) {
+  margin-right: 4px;
+}
